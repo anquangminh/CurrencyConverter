@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+
+    <string-array name="from">
+        <item>CAD</item>
+        <item>THB</item>
+        <item>PAB</item>
+        <item>EGP</item>
+        <item>GBP</item>
+        <item>LBP</item>
+        <item>ETB</item>
+        <item>BOB</item>
+        <item>GHS</item>
+        <item>XOF</item>
+        <item>XAF</item>
+        <item>VND</item>
+        <item>EUR</item>
+        <item>RUB</item>
+    </string-array>
+</resources>
